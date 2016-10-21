@@ -14,7 +14,6 @@ Run ```$ gulp deploy``` to push to production.
 3. Runs code linters
 4. Copy to src directory
 5. Generate service workers
-
 6. Temporarily committ to dist
 7. Cleaning origin/gh-pages
 8. Push dist to origin/gh-pages
