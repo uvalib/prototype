@@ -1,11 +1,12 @@
-# prototype
+# Homepage prototype
+
 Homepage prototype and other ideas for the UX team
 
 Usage
 
-Run $ gulp deploy to push to production.
+Run ```$ gulp deploy``` to push to production.
 
-Gulp Deploy does the following tasks
+*Gulp Deploy does the following tasks*
 ______________________________ // File Stuff
 1. Runs a clean
 2. Minify all files styles, html, and scripts
