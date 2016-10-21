@@ -3,7 +3,10 @@
 Homepage prototype and other ideas for the UX team
 
 Usage
+Clone this repo
 
+Run ```$ npm install``` to install dependencies
+Run ```$ gulp serve``` to build and run localhost
 Run ```$ gulp deploy``` to push to production.
 
 *Gulp Deploy does the following tasks*
